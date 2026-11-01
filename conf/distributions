@@ -1,0 +1,7 @@
+Origin: GDDASH45
+Label: GDDASH45 APT Repository
+Codename: stable
+Architectures: amd64
+Components: main
+Description: GDDASH45 APT package repository
+SignWith: APT_REPOSITORY_SIGNING_KEY
