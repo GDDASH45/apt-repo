@@ -1,5 +1,4 @@
 /public/
-*.deb
 *.changes
 *.buildinfo
 *.dsc
